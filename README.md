@@ -70,7 +70,9 @@ Something good happens to us every day. Sometimes we don't see these things, whi
 ![Home](https://user-images.githubusercontent.com/41966757/111634109-7c2d9a00-87f6-11eb-8d17-6fcc52c7b0b4.png)
 
 **Tutorial View - 2x faster:**
+
 ![Welcome](https://user-images.githubusercontent.com/41966757/111634202-94051e00-87f6-11eb-88a6-2ebb2027136b.gif)
+
 
 # [YouTube] Application usage video
 [![SaveMeAppUsage](https://user-images.githubusercontent.com/41966757/111635050-62d91d80-87f7-11eb-9687-eebcc81e4d47.png)](http://www.youtube.com/watch?v=sgYjkqx2OGc "SaveMe")
