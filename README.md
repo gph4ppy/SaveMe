@@ -8,7 +8,7 @@ Keeping a physical diary is difficult, and there is no guarantee that someone wi
 - **Mood Checker**
 Monitor your feelings. Thanks to this option, you will find out in which situations you feel bad and in which you feel good. This is important because you will get to know the mechanisms of your psyche and understand what to avoid and what to do to be happier.
 
-![Mood Checker](https://user-images.githubusercontent.com/41966757/111545046-bc990380-8775-11eb-82e9-360e8e65ae88.png)
+![Mood Checker](https://user-images.githubusercontent.com/41966757/111545046-bc990380-8775-11eb-82e9-360e8e65ae88.png | width=100)
 
 - **Diary**
 Keeping a diary is difficult, but not with SaveMe! Your cards will be with you whenever you have your phone. You don't have to worry about the pen and the fact that someone will notice that you are writing something in your notebook. An immediate diary entry will ensure that your feelings are relevant to the moment, allowing you to understand the situation later.
@@ -39,7 +39,7 @@ Something good happens to us every day. Sometimes we don't see these things, whi
 - Tap on the current name to change it.
 - Tap on the profile picture to upload a new one.
 - You can change the accent color, thanks to which you will have beautiful colors of calendars and buttons.
-- You can switch app language (works only on the simulator - probably because it isn't released on AppStore, which gives you personalized options for the app)
+- You can switch app language to Polish and English (works only on the simulator - probably because it isn't released on AppStore, which gives you personalized options for the app).
 - You can switch the whole app to dark mode with one tap.
 - Turn on notifications, which will remind you to check your frame of mind.
 - If you want, you can see in formations about the app. 
