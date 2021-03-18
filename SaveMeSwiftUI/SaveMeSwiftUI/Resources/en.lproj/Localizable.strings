@@ -1,0 +1,165 @@
+/* 
+  Localizable.strings
+  SaveMeSwiftUI
+
+  Created by Jakub "GPH4PPY" Dąbrowski on 10/03/2021.
+  
+*/
+
+// Main
+"hello" = "Hello";
+"save" = "Save";
+"write" = "Write";
+"copy" = "Copy";
+"add" = "Add";
+"delete" = "Delete";
+"cancel" = "Cancel";
+
+// Mood
+"select_date" = "Select Date";
+"browse_history" = "Browse History";
+"select_date_info" = "Select date in the Date Picker above to view moods in selected date";
+"no_data_moods" = "There is no data here. :(
+Add your current mood!";
+"mood_title" = "How do you feel?";
+
+// Diary
+"no_data_diary" = "There is no data here. :(
+Write some cards!";
+"diary_title" = "Diary";
+
+// Positive Thinking
+"no_data_thinking" = "You're a wonderful person.
+Add cards that will remind you of this when you feel worse.
+
+Some ideas:
+- It's all happening in my head.
+- I don't like everyone, so why do I expect everyone to like me?
+- Everyone makes mistakes.
+- People forget awkward situations after 5 minutes.
+- For one mistake, people won't change their mind about me.";
+"thinking_title" = "Self-esteem";
+"new_card" = "Add New Card";
+"empty_card_title" = "Why is your card empty?";
+"empty_card_body" = "You are valuable, so your card should also have some value.";
+"empty_card_button" = "Got it!";
+
+// Dreamcatcher
+"no_data_dreams" = "There is no data here. :(
+Write some dreams!";
+"copy_date" = "Copy date";
+"copy_content" = "Copy content";
+"dreamcatcher_title" = "Dreamcatcher";
+
+// Feelings
+"no_data_feelings" = "There is no data here. :(
+Write some feelings!";
+"feelings_title" = "Why I feel like that?";
+"feelings_alert_title" = "How do you feel?";
+"feelings_alert_body" = "Your feelings are now";
+"positive" = "Positive";
+"negative" = "Negative";
+"positive_feelings" = "🟢 I feel now:
+
+
+🟢 The reason is:
+
+
+🟢 What led to this:
+
+
+🟢 Do I want this feeling to occur more often:
+
+
+🟢 If so, how can I feel it more often:
+
+
+🟢 What things or people helped me with this:
+
+";
+"negative_feelings" = "
+🔴 I feel now:
+
+
+🔴 The reason is:
+
+
+🔴 What led to this:
+
+
+🔴 What are the pros of this situation:
+
+
+🔴 What are the cons to this situation:
+
+
+🔴 How can I prevent it:
+
+
+🔴 Will the situation repeat itself:
+
+
+🔴 If so, how can I deal with it:
+
+";
+
+// Things
+"no_data_things" = "In one day, a lot of good things happen that you don't notice. Whenever something good happens to you, add it here. Even the smallest things count.
+
+You haven't typed any good things today.";
+"add_positive_thing" = "Add positive thing";
+"things_title" = "Positive Things";
+
+// Settings
+"settings_title" = "Settings";
+"current_name" = "Current name";
+"save_profile_picture" = "Save Profile Picture";
+"app_settings_header" = "App Settings";
+"app_info_header" = "App Informations";
+"select_accent_color" = "Accent Color";
+"select_language" = "Language";
+"select_theme" = "Dark Mode";
+"setup_notifications" = "Notifications";
+"app_info_version" = "Version";
+
+// Notifications
+"setup_notifications_title" = "Setup notifications";
+"select_hour" = "Select hour";
+"allow_notifications" = "1. Allow notifications.";
+"schedule_notifications" = "2. Schedule notification.";
+"notification_title" = "Don't forget about your mental health!";
+"notification_body" = "Fill in all the details about today.";
+
+// Colors
+"default" = "Default";
+"blue" = "Blue";
+"pink" = "Pink";
+"red" = "Red";
+"purple" = "Purple";
+"yellow" = "Yellow";
+
+// Welcome
+"welcome_title" = "Welcome in SaveMe!";
+"welcome_subheadline" = "Your personal psychic health tracker";
+"question_name" = "What's your name?";
+"name_answer" = "My name is...";
+"welcome_footer" = "1. Your data is not shared with me. I cannot see who is using the application and the data entered. Your name and data remain in the application on your device.
+2. This application is not intended to collect medical data. It is not intended to cure mental illness, depression, etc. It has nothing to do with medicine. The app is designed to save data only, just like a notepad - it can be your personal journal with different options. I am not legally responsible for the incorrect use of the application.";
+
+// About
+"about_title" = "About";
+"about_body" = "My name is Jakub and I am the creator of the SaveMe application. This is a project that I found necessary, as many people ask themselves: \"Why do I feel like that?\", \"What can I do with it?\" - they try to understand themselves, which is very difficult. It started from the moment when I was looking for an application for myself that would be free and at the same time contain everything I needed. I know programmers need to earn money, but I hate subscribing - I think I'd rather pay once, more than for subscription, and make sure I don't have to worry about taking money from my account at an inopportune moment.
+
+This application is not a replacement for professional help - let it be an electronic diary that may help you. I am not legally responsible for improper use of the application and any damage that someone may cause to himself or others. SaveMe is not a medical application - in case of mental disorders, visit a specialist who is a wonderful person and will try to help. You can also call the helpline where you can also find help.
+
+Good luck and enjoy using the app!";
+"author_info" = "-year-old creator of the SaveMe app, hobbyist Swift Developer.";
+
+// Tutorial
+"tutorial_swipe" = "Swipe left to see the previous tip,
+swipe right to see the next tip.
+You can also wait 5 seconds.";
+"tutorial_delete_title" = "Delete data";
+"tutorial_delete_body" = "Swipe left to remove data.";
+"tutorial_hold_title" = "Hold for more";
+"tutorial_hold_body" = "Hold to use more options.";

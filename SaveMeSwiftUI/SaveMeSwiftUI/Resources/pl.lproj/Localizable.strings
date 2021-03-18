@@ -1,0 +1,163 @@
+/* 
+  Localizable.strings
+  SaveMeSwiftUI
+
+  Created by Jakub "GPH4PPY" Dąbrowski on 10/03/2021.
+*/
+
+// Main
+"hello" = "Hej";
+"save" = "Zapisz";
+"write" = "Napisz";
+"copy" = "Kopiuj";
+"add" = "Dodaj";
+"delete" = "Usuń";
+"cancel" = "Anuluj";
+
+// Mood
+"select_date" = "Wybierz datę";
+"browse_history" = "Przeglądaj historię";
+"select_date_info" = "Wybierz datę powyżej, aby zobaczyć humory z tego dnia.";
+"no_data_moods" = "Brak danych. :(
+Dodaj swój aktualny humor!";
+"mood_title" = "Jak się czujesz?";
+
+// Diary
+"no_data_diary" = "Brak danych. :(
+Napisz kartkę!";
+"diary_title" = "Pamiętnik";
+
+// Positive Thinking
+"no_data_thinking" = "Jesteś wspaniałą osobą.
+Dodaj karty, które przypomną Ci o tym w trakcie gorszego samopoczucia.
+
+Kilka pomysłów:
+- To wszystko dzieje się w mojej głowie.
+- Nie lubię wszystkich, więc czemu wszyscy mają lubić mnie?
+- Każdy popełnia błędy.
+- Ludzie zapominają o niezręcznych sytuacjach po 5 minutach.
+- Za jeden błąd ludzie nie zmienią o mnie zdania.";
+"thinking_title" = "Samoocena";
+"new_card" = "Nowa karta";
+"empty_card_title" = "Czemu Twoja karta jest pusta?";
+"empty_card_body" = "Jesteś wartościowy, więc Twoja karta również powinna posiadać wartość.";
+"empty_card_button" = "Zrozumiano!";
+
+// Dreamcatcher
+"no_data_dreams" = "Brak danych. :(
+Opisz swoje sny!";
+"copy_date" = "Kopiuj datę";
+"copy_content" = "Kopiuj zawartość";
+"dreamcatcher_title" = "Dziennik snów";
+
+// Feelings
+"no_data_feelings" = "Brak danych. :(
+Dodaj swoje uczucia!";
+"feelings_title" = "Czemu się tak czuję?";
+"feelings_alert_title" = "Jak się czujesz?";
+"feelings_alert_body" = "Twoje uczucia teraz są";
+"positive" = "Pozytywne";
+"negative" = "Negatywne";
+"positive_feelings" = "🟢 Czuję się teraz:
+
+
+🟢 Powodem jest:
+
+
+🟢 Doprowadziło do tego:
+
+
+🟢 Czy chcę częściej tak się czuć:
+
+
+🟢 Jeśli tak, jak mogę czuć to częściej:
+
+
+🟢 Co lub kto pomógł mi to osiągnąć:
+
+";
+"negative_feelings" = "🔴 Czuję teraz:
+
+
+🔴 Powodem jest:
+
+
+🔴 Doprowadziło do tego:
+
+
+🔴 Jakie są plusy tej sytuacji:
+
+
+🔴 Jakie są minusy tej sytuacji:
+
+
+🔴 Jak mogę temu zapobiec:
+
+
+🔴 Czy sytuacja się powtórzy:
+
+
+🔴 Jeśli tak, jak mogę sobie z tym poradzić:
+
+";
+
+// Things
+"no_data_things" = "W ciągu jednego dnia dzieje się sporo pozytywnych rzeczy, których nie dostrzegasz. Kiedy wydarzy się coś dobrego, zapisz to tutaj. Nawet najmniejsze rzeczy się liczą.
+
+Dzisiaj nie dodałeś żadnych fajnych rzeczy.";
+"add_positive_thing" = "Dodaj pozytywną rzecz";
+"things_title" = "Pozytywne rzeczy";
+
+// Settings
+"settings_title" = "Ustawienia";
+"current_name" = "Aktualny nick";
+"save_profile_picture" = "Zapisz zdjęcie profilowe";
+"app_settings_header" = "Ustawienia Aplikacji";
+"app_info_header" = "Informacje o aplikacji";
+"select_accent_color" = "Motyw";
+"select_language" = "Język";
+"select_theme" = "Tryb ciemny";
+"setup_notifications" = "Powiadomienia";
+"app_info_version" = "Wersja";
+
+// Notifications
+"setup_notifications_title" = "Powiadomienia";
+"select_hour" = "Wybierz godzinę";
+"allow_notifications" = "1. Zezwól na powiadomienia.";
+"schedule_notifications" = "2. Zaplanuj powiadomienia.";
+"notification_title" = "Nie zapominaj o swoim zdrowiu psychicznym!";
+"notification_body" = "Wpisz wszystkie informacje na temat dzisiejszego dnia.";
+
+// Colors
+"default" = "Domyślny";
+"blue" = "Niebieski";
+"pink" = "Różowy";
+"red" = "Czerwony";
+"purple" = "Fioletowy";
+"yellow" = "Żółty";
+
+// Welcome
+"welcome_title" = "Witaj w SaveMe!";
+"welcome_subheadline" = "Osobistym monitorze zdrowia psychicznego";
+"question_name" = "Jak się nazywasz?";
+"name_answer" = "Mam na imię...";
+"welcome_footer" = "1. Twoje dane nie są mi udostępniane. Nie mogę zobaczyć kto używa aplikacji oraz nie mam dostępu do wprowadzonych informacji. Twoje dane pozostają jedynie na Twoim urządzeniu.
+2. Ta aplikacja nie powstała w celach medycznych. Nie służy do leczenia zaburzeń psychicznych, depresji, itp. Nie ma nic wspólnego z medycyną. Aplikacja służy do zapisywania danych, tak jak notatnik - może być Twoim osobistym dziennikiem z różnymi opcjami. Nie ponoszę odpowiedzialności prawnej za nieprawidłowe korzystanie z aplikacji.";
+
+// About
+"about_title" = "O aplikacji";
+"about_body" = "Nazywam się Jakub i jestem twórcą aplikacji SaveMe. Jest to projekt, który uznałem za potrzebny, gdyż wiele osób zadaje sobie pytanie: \"Czemu tak się czuję?\", \"Co mogę z tym zrobić?\" - próbują zrozumieć siebie, co jest bardzo trudne. Zaczęło się od momentu, gdzie szukałem aplikacji dla siebie, która byłaby darmowa, a jednocześnie zawierałaby wszystko, co było mi potrzebne. Wiem, że programiści muszą zarabiać, jednak nienawidzę subskrypcji - jestem zdania, że wolałbym zapłacić raz, więcej niż za subskrypcję i mieć pewność, że nie będę musiał się martwić o to, że kiedyś mi pobierze w nieodpowiednim momencie pieniądze z konta.
+
+Aplikacja ta nie jest zamiennikiem profesjonalnej pomocy - niech to będzie elektroniczny dziennik, który może Ci pomóc. Nie odpowiadam prawnie za nieprawidłowe korzystanie z aplikacji oraz szkody, które ktoś może wyrządzić sobie lub innym. SaveMe nie jest aplikacją medyczną - w celu leczenia zaburzeń psychicznych odwiedź specjalistę, który jest wspaniałym człowiekiem i będzie starał się pomóc. Możesz również zadzwonić na telefon zaufania, gdzie również możesz odnaleźć pomoc.
+
+Powodzenia i miłego korzystania z aplikacji!";
+"author_info" = "-letni twórca aplikacji SaveMe, hobbystyczny programista Swift";
+
+// Tutorial
+"tutorial_swipe" = "Przewiń w lewo, aby zobaczyć poprzednią wskazówkę,
+Przewiń w prawo, aby zobaczyć następną wskazówkę.
+Możesz również poczekać 5 sekund.";
+"tutorial_delete_title" = "Usuwaj dane";
+"tutorial_delete_body" = "Przewiń w lewo, aby usunąć dane.";
+"tutorial_hold_title" = "Przytrzymaj";
+"tutorial_hold_body" = "Przytrzymaj, aby ujrzeć więcej opcji.";
