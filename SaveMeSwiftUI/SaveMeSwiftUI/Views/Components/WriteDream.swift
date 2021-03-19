@@ -53,7 +53,7 @@ struct WriteDream: View {
             } else {
                 // Otherwise show editor
                 TextEditor(text: $content)
-                    .autocapitalization(.words)
+                    .autocapitalization(.sentences)
                     .disableAutocorrection(true)
             }
         }

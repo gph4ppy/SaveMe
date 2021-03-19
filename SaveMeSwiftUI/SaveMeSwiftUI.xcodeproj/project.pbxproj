@@ -17,9 +17,16 @@
 		1C3C96EC25E95879009E8D2E /* HomeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3C96EB25E95879009E8D2E /* HomeButton.swift */; };
 		1C3EACE725F1426400D68E4C /* DreamModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3EACE625F1426400D68E4C /* DreamModel.swift */; };
 		1C3EACEB25F1456800D68E4C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3EACEA25F1456800D68E4C /* SettingsView.swift */; };
+		1C4226192604FE18005026F9 /* View+GradientForeground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4226182604FE18005026F9 /* View+GradientForeground.swift */; };
+		1C42261D2604FE56005026F9 /* UIAlertController+TextFieldAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C42261C2604FE56005026F9 /* UIAlertController+TextFieldAlert.swift */; };
+		1C4226202604FE8F005026F9 /* View+Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C42261F2604FE8F005026F9 /* View+Alert.swift */; };
+		1C4226232604FEDA005026F9 /* View+ImageToUIImageConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4226222604FEDA005026F9 /* View+ImageToUIImageConversion.swift */; };
+		1C4226262604FF01005026F9 /* UIView+ImageToUIImageConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4226252604FF01005026F9 /* UIView+ImageToUIImageConversion.swift */; };
+		1C42262D2604FF70005026F9 /* View+RoundedCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C42262C2604FF70005026F9 /* View+RoundedCorners.swift */; };
+		1C4226322604FFC3005026F9 /* View+ColorToUIColorConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4226312604FFC3005026F9 /* View+ColorToUIColorConversion.swift */; };
+		1C4226392604FFEF005026F9 /* UserDefaults+OptionalBool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4226382604FFEF005026F9 /* UserDefaults+OptionalBool.swift */; };
 		1C58024125F93D1200A09F19 /* ColorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C58024025F93D1200A09F19 /* ColorManager.swift */; };
 		1C73D88025EB9F2C0014A286 /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C73D87F25EB9F2C0014A286 /* CustomSlider.swift */; };
-		1C73D88325EB9F6F0014A286 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C73D88225EB9F6F0014A286 /* Extensions.swift */; };
 		1C78432125E9471100D1FE4B /* SaveMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C78432025E9471100D1FE4B /* SaveMeApp.swift */; };
 		1C78432325E9471100D1FE4B /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C78432225E9471100D1FE4B /* StartView.swift */; };
 		1C78432525E9471100D1FE4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C78432425E9471100D1FE4B /* Assets.xcassets */; };
@@ -71,9 +78,16 @@
 		1C3C96EB25E95879009E8D2E /* HomeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeButton.swift; sourceTree = "<group>"; };
 		1C3EACE625F1426400D68E4C /* DreamModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamModel.swift; sourceTree = "<group>"; };
 		1C3EACEA25F1456800D68E4C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1C4226182604FE18005026F9 /* View+GradientForeground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+GradientForeground.swift"; sourceTree = "<group>"; };
+		1C42261C2604FE56005026F9 /* UIAlertController+TextFieldAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+TextFieldAlert.swift"; sourceTree = "<group>"; };
+		1C42261F2604FE8F005026F9 /* View+Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Alert.swift"; sourceTree = "<group>"; };
+		1C4226222604FEDA005026F9 /* View+ImageToUIImageConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ImageToUIImageConversion.swift"; sourceTree = "<group>"; };
+		1C4226252604FF01005026F9 /* UIView+ImageToUIImageConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+ImageToUIImageConversion.swift"; sourceTree = "<group>"; };
+		1C42262C2604FF70005026F9 /* View+RoundedCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+RoundedCorners.swift"; sourceTree = "<group>"; };
+		1C4226312604FFC3005026F9 /* View+ColorToUIColorConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ColorToUIColorConversion.swift"; sourceTree = "<group>"; };
+		1C4226382604FFEF005026F9 /* UserDefaults+OptionalBool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+OptionalBool.swift"; sourceTree = "<group>"; };
 		1C58024025F93D1200A09F19 /* ColorManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorManager.swift; sourceTree = "<group>"; };
 		1C73D87F25EB9F2C0014A286 /* CustomSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSlider.swift; sourceTree = "<group>"; };
-		1C73D88225EB9F6F0014A286 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		1C78431D25E9471100D1FE4B /* SaveMeSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SaveMeSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C78432025E9471100D1FE4B /* SaveMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveMeApp.swift; sourceTree = "<group>"; };
 		1C78432225E9471100D1FE4B /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
@@ -127,6 +141,69 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C4226172604FDE3005026F9 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1C4226352604FFD5005026F9 /* Optional Bool */,
+				1C4226302604FFAA005026F9 /* Color to UIColor Conversion */,
+				1C4226282604FF14005026F9 /* Slider */,
+				1C4226292604FF1E005026F9 /* TextField Alert */,
+				1C42262B2604FF5F005026F9 /* Rounded Corners */,
+				1C42262A2604FF2F005026F9 /* Image to UIImage Conversion */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		1C4226282604FF14005026F9 /* Slider */ = {
+			isa = PBXGroup;
+			children = (
+				1C4226182604FE18005026F9 /* View+GradientForeground.swift */,
+			);
+			path = Slider;
+			sourceTree = "<group>";
+		};
+		1C4226292604FF1E005026F9 /* TextField Alert */ = {
+			isa = PBXGroup;
+			children = (
+				1C42261C2604FE56005026F9 /* UIAlertController+TextFieldAlert.swift */,
+				1C42261F2604FE8F005026F9 /* View+Alert.swift */,
+			);
+			path = "TextField Alert";
+			sourceTree = "<group>";
+		};
+		1C42262A2604FF2F005026F9 /* Image to UIImage Conversion */ = {
+			isa = PBXGroup;
+			children = (
+				1C4226222604FEDA005026F9 /* View+ImageToUIImageConversion.swift */,
+				1C4226252604FF01005026F9 /* UIView+ImageToUIImageConversion.swift */,
+			);
+			path = "Image to UIImage Conversion";
+			sourceTree = "<group>";
+		};
+		1C42262B2604FF5F005026F9 /* Rounded Corners */ = {
+			isa = PBXGroup;
+			children = (
+				1C42262C2604FF70005026F9 /* View+RoundedCorners.swift */,
+			);
+			path = "Rounded Corners";
+			sourceTree = "<group>";
+		};
+		1C4226302604FFAA005026F9 /* Color to UIColor Conversion */ = {
+			isa = PBXGroup;
+			children = (
+				1C4226312604FFC3005026F9 /* View+ColorToUIColorConversion.swift */,
+			);
+			path = "Color to UIColor Conversion";
+			sourceTree = "<group>";
+		};
+		1C4226352604FFD5005026F9 /* Optional Bool */ = {
+			isa = PBXGroup;
+			children = (
+				1C4226382604FFEF005026F9 /* UserDefaults+OptionalBool.swift */,
+			);
+			path = "Optional Bool";
+			sourceTree = "<group>";
+		};
 		1C58023F25F93CE900A09F19 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
@@ -160,6 +237,7 @@
 				1CE6051B25EA58DA002D1037 /* ViewModels */,
 				1CE6051A25EA58D5002D1037 /* Models */,
 				1CE6051725EA58A5002D1037 /* Views */,
+				1C4226172604FDE3005026F9 /* Extensions */,
 				1CE6051C25EA58DF002D1037 /* Resources */,
 				1C78432E25E9471100D1FE4B /* Info.plist */,
 				1C78432625E9471100D1FE4B /* Preview Content */,
@@ -292,6 +370,7 @@
 				1CF9334825ECED4600A5FA77 /* MoodCard.swift */,
 				1CA9653925F527280011DE6C /* TextFieldAlert.swift */,
 				1C966A5C25FA32E40048B285 /* RoundedCornersShape.swift */,
+				1C913E3925ED5A8F006A32FA /* ImagePicker.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -320,9 +399,7 @@
 			children = (
 				1C78432025E9471100D1FE4B /* SaveMeApp.swift */,
 				1C78432225E9471100D1FE4B /* StartView.swift */,
-				1C73D88225EB9F6F0014A286 /* Extensions.swift */,
 				1C833A8625F9081F008B36AC /* Localizable.strings */,
-				1C913E3925ED5A8F006A32FA /* ImagePicker.swift */,
 				1CAA796925ED3067000FAAA6 /* LaunchScreen.storyboard */,
 				1C78432425E9471100D1FE4B /* Assets.xcassets */,
 			);
@@ -428,10 +505,14 @@
 			files = (
 				1CA3CCDB25F7E29B00C66DFF /* SetupNotification.swift in Sources */,
 				1CD65C4C25EE86C5005552B6 /* Diary+CoreDataProperties.swift in Sources */,
+				1C4226322604FFC3005026F9 /* View+ColorToUIColorConversion.swift in Sources */,
 				1CE6052625EA62E9002D1037 /* DiaryView.swift in Sources */,
 				1CD6DC1325F24BE4000FF44E /* PositiveThingsView.swift in Sources */,
 				1CE501BF25EC4463008EF17C /* DateManager.swift in Sources */,
+				1C4226232604FEDA005026F9 /* View+ImageToUIImageConversion.swift in Sources */,
 				1C73D88025EB9F2C0014A286 /* CustomSlider.swift in Sources */,
+				1C4226192604FE18005026F9 /* View+GradientForeground.swift in Sources */,
+				1C42261D2604FE56005026F9 /* UIAlertController+TextFieldAlert.swift in Sources */,
 				1C78432A25E9471100D1FE4B /* PersistenceController.swift in Sources */,
 				1C3EACEB25F1456800D68E4C /* SettingsView.swift in Sources */,
 				1CF9334925ECED4600A5FA77 /* MoodCard.swift in Sources */,
@@ -440,16 +521,20 @@
 				1C3C96E925E94C17009E8D2E /* HomeView.swift in Sources */,
 				1C966A5D25FA32E40048B285 /* RoundedCornersShape.swift in Sources */,
 				1C34029B25EEC8AA00767165 /* TextLimiterViewModel.swift in Sources */,
+				1C4226392604FFEF005026F9 /* UserDefaults+OptionalBool.swift in Sources */,
 				1CD65C4725EE84EE005552B6 /* WriteDiary.swift in Sources */,
 				1C913E3A25ED5A8F006A32FA /* ImagePicker.swift in Sources */,
+				1C42262D2604FF70005026F9 /* View+RoundedCorners.swift in Sources */,
 				1CCF13AA25EEBAA8006A323E /* WritePositiveCard.swift in Sources */,
 				1C3EACE725F1426400D68E4C /* DreamModel.swift in Sources */,
 				1CD65C4B25EE86C5005552B6 /* Diary+CoreDataClass.swift in Sources */,
 				1C8E0EB525F3A04B00EE72CD /* Feelings+CoreDataClass.swift in Sources */,
 				1CE6052C25EA62FD002D1037 /* DreamcatcherView.swift in Sources */,
+				1C4226262604FF01005026F9 /* UIView+ImageToUIImageConversion.swift in Sources */,
 				1C99D3A025F10BF40013B03A /* Dream+CoreDataProperties.swift in Sources */,
 				1C78432325E9471100D1FE4B /* StartView.swift in Sources */,
 				1C0D66B525EC2AB800EB0E1C /* Mood+CoreDataClass.swift in Sources */,
+				1C4226202604FE8F005026F9 /* View+Alert.swift in Sources */,
 				1C0D66B025EC2A4800EB0E1C /* User+CoreDataClass.swift in Sources */,
 				1CC8DB2F25FA0FA9009ED0FE /* AboutView.swift in Sources */,
 				1C8E0EB625F3A04B00EE72CD /* Feelings+CoreDataProperties.swift in Sources */,
@@ -461,7 +546,6 @@
 				1CE6052925EA62F5002D1037 /* PositiveThinkingView.swift in Sources */,
 				1C78432D25E9471100D1FE4B /* AppData.xcdatamodeld in Sources */,
 				1C99D39F25F10BF40013B03A /* Dream+CoreDataClass.swift in Sources */,
-				1C73D88325EB9F6F0014A286 /* Extensions.swift in Sources */,
 				1CE501B725EC3B87008EF17C /* WelcomeView.swift in Sources */,
 				1C0D66B625EC2AB800EB0E1C /* Mood+CoreDataProperties.swift in Sources */,
 				1C58024125F93D1200A09F19 /* ColorManager.swift in Sources */,

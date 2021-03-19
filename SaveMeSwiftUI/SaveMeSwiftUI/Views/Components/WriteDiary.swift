@@ -41,7 +41,7 @@ struct WriteDiary: View {
             
             // Diary Card content editor
             TextEditor(text: $content)
-                .autocapitalization(.words)
+                .autocapitalization(.sentences)
                 .disableAutocorrection(true)
         }
         .padding()

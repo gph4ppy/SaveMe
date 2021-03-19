@@ -42,7 +42,7 @@ struct WritePositiveCard: View {
             
             // Positive Card Content Editor
             TextEditor(text: $content.value)
-                .autocapitalization(.words)
+                .autocapitalization(.sentences)
                 .disableAutocorrection(true)
         }
         .padding()

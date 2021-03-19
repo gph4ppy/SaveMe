@@ -50,7 +50,7 @@ struct WriteFeelings: View {
             
             // Content Editor
             TextEditor(text: $content)
-                .autocapitalization(.words)
+                .autocapitalization(.sentences)
                 .disableAutocorrection(true)
         }
         .padding()
